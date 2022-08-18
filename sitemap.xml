@@ -5,37 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2022-08-18T11:29:20-00:00</lastmod>
+<lastmod>2022-08-18T11:46:18-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2022-08-18T11:29:20-00:00</lastmod>
+<lastmod>2022-08-18T11:46:18-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2022-08-18T11:29:20-00:00</lastmod>
+<lastmod>2022-08-18T11:46:18-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2022-08-18T11:29:20-00:00</lastmod>
+<lastmod>2022-08-18T11:46:18-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/archives</loc>
-<lastmod>2022-08-18T11:29:20-00:00</lastmod>
+<lastmod>2022-08-18T11:46:18-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
+</url>
+
+<url>
+<loc>/2022/Human Bondage.html</loc>
+<lastmod>2022-08-11T00:00:00+05:30</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
@@ -124,7 +131,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/article.html</loc>
-<lastmod>2022-07-31T00:00:00+05:53</lastmod>
+<lastmod>2022-08-11T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -159,7 +166,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/literature.html</loc>
-<lastmod>2022-07-31T00:00:00+05:53</lastmod>
+<lastmod>2022-08-11T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -216,6 +223,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/author/goutam-k-k.html</loc>
 <lastmod>2022-07-31T00:00:00+05:53</lastmod>
+<changefreq>hourly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>/author/maugham.html</loc>
+<lastmod>2022-08-11T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
