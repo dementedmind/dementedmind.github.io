@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2022-08-18T10:44:40-00:00</lastmod>
+<lastmod>2022-08-18T11:29:20-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2022-08-18T10:44:40-00:00</lastmod>
+<lastmod>2022-08-18T11:29:20-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2022-08-18T10:44:40-00:00</lastmod>
+<lastmod>2022-08-18T11:29:20-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2022-08-18T10:44:40-00:00</lastmod>
+<lastmod>2022-08-18T11:29:20-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/archives</loc>
-<lastmod>2022-08-18T10:44:40-00:00</lastmod>
+<lastmod>2022-08-18T11:29:20-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -158,15 +158,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/tag/political.html</loc>
-<lastmod>2022-07-31T00:00:00+05:53</lastmod>
-<changefreq>hourly</changefreq>
-<priority>0.7</priority>
-</url>
-
-<url>
 <loc>/tag/literature.html</loc>
-<lastmod>2022-04-04T00:00:00+05:53</lastmod>
+<lastmod>2022-07-31T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
