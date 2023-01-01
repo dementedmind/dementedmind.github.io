@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2023-01-01T12:52:07-00:00</lastmod>
+<lastmod>2023-01-01T13:04:16-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2023-01-01T12:52:07-00:00</lastmod>
+<lastmod>2023-01-01T13:04:16-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2023-01-01T12:52:07-00:00</lastmod>
+<lastmod>2023-01-01T13:04:16-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2023-01-01T12:52:07-00:00</lastmod>
+<lastmod>2023-01-01T13:04:16-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
 <loc>/archives</loc>
-<lastmod>2023-01-01T12:52:07-00:00</lastmod>
+<lastmod>2023-01-01T13:04:16-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -46,15 +46,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>/2022/Portrait & Mirror.html</loc>
-<lastmod>2022-11-11T00:00:00+05:30</lastmod>
+<loc>/2022/Happiness-1.html</loc>
+<lastmod>2022-12-12T00:00:00+05:30</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/2022/Happiness-1.html</loc>
-<lastmod>2022-09-12T00:00:00+05:30</lastmod>
+<loc>/2022/Portrait & Mirror.html</loc>
+<lastmod>2022-11-11T00:00:00+05:30</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
@@ -173,7 +173,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/psychology.html</loc>
-<lastmod>2022-09-12T00:00:00+05:53</lastmod>
+<lastmod>2022-12-12T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -201,7 +201,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/psychology.html</loc>
-<lastmod>2022-09-12T00:00:00+05:53</lastmod>
+<lastmod>2022-12-12T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -264,7 +264,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/goutam-k-k.html</loc>
-<lastmod>2022-09-12T00:00:00+05:53</lastmod>
+<lastmod>2022-12-12T00:00:00+05:53</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.7</priority>
 </url>
